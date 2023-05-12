@@ -1,6 +1,6 @@
 # Nightmare-for-Clocking-in
-Base on ATJS, clocking in dd automatically.
-基于……的自动打卡脚本。
+Base on ATJS, clocking in dd automatically.  
+基于……的自动打卡脚本。  
 # 软硬
 安卓6.0以上，联网  
 下载……软件 + 无障碍  

@@ -2,8 +2,8 @@
 Base on ATJS, clocking in dd automatically.
 基于……的自动打卡脚本。
 # 软硬
-安卓6.0以上，联网
-下载……软件 + 无障碍
+安卓6.0以上，联网  
+下载……软件 + 无障碍  
 # Usage
 通过手机系统的闹钟唤醒屏幕。  
 APP+文字识别进入……。  
